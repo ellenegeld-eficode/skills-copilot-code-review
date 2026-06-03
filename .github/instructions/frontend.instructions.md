@@ -7,4 +7,4 @@ applyTo: "*.html,*.css,*.js"
 - Use accessibility attributes (alt text, aria labels) and color schemes.
 - Use responsive design for compatibility with mobile devices.
 - Validate HTML structure and semantic elements.
-- Always use hexadecimal color codes in CSS.
+- Always use variables for colors and fonts in CSS.
