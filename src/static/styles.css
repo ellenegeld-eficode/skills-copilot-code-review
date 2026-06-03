@@ -660,7 +660,19 @@ footer {
   font-size: 0.8rem;
   border-radius: 20px;
 }
+   .announcement-banner {
 
+     background-color: #4caf50;
+
+     color: white;
+
+     text-align: center;
+
+     padding: 15px;
+
+     font-weight: bold;
+
+   }
 #logout-button:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
